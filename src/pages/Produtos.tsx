@@ -1,8 +1,7 @@
-import React from "react";
 import Navbar from "../components/Navbar/Navbar";
-import styled from 'styled-components';
+import styled from "styled-components";
 import Footer from "../components/Footer/Footer";
-import Head from 'next/head'
+import Head from "next/head"
 
 const ContainerProduct = styled.div`
         margin-top: 4rem;
@@ -90,6 +89,7 @@ const ImgAvatar = styled.img`
         width: 380px;
         height: 350px;
         z-index:1;
+        object-fit: fill;
 
       
         border-radius: 3px;
@@ -226,7 +226,7 @@ export default function Produtos() {
                                 mais resistentes a corrosão.
                             </p>
                             <img src={'/img/catalogs/envernizadosmobile.jpeg'}/>
-                            <a href="https://drive.google.com/file/d/1DdEQARLv6uqQQJPGncpHA_7Y_PupTPgf/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
+                            <a href="https://drive.google.com/file/d/14mhdwkTNlI4cZyRJ2sKw4cX4B6-af0mo/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
                             </Description>        
 
                         </ContainerDesc>
@@ -253,7 +253,7 @@ export default function Produtos() {
                             <p>Peças banhadas a cinquenta milésimos de prata, possuem um brilho atenuado. Catálogo com ampla variedade de berloques, separadores e muranos.
                             </p>
                             <img src={'/img/catalogs/banhadomobile.jpeg'}/>
-                            <a href="https://drive.google.com/file/d/1RpPC1TR_Dq99QCyPf8Bb2MYouXXlsLzm/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
+                            <a href="https://drive.google.com/file/d/12073ioScNAbrMEF-y-bQqYzpQZg8jglb/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
                             </Description>        
 
                         </ContainerDesc>
@@ -281,7 +281,7 @@ export default function Produtos() {
                                 Ampla variedade de produtos com diferentes separadores e berloques. 
                             </p>
                             <img src={'/img/catalogs/niquelmobile.jpeg'}/>
-                            <a href="https://drive.google.com/file/d/1He2SG7yrH_APBWKfLQ8sbp46nitvbY5T/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
+                            <a href="https://drive.google.com/file/d/1vIuZH3gY3hxDmuId_QgwLm3Y2NYB2ZnE/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
                             </Description>        
 
                         </ContainerDesc>
@@ -361,6 +361,31 @@ export default function Produtos() {
                             <p>Argolinhas folheadas e com zircônia para todos os gostos, consulte a disponibilidade das peças.</p>
                             <img src={'/img/catalogs/argolasmobile.jpeg'}/>
                             <a href="https://drive.google.com/file/d/14Qts8zYV_0S_lbeXEzH02PD1iXfdXQZm/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
+                            </Description>        
+
+                        </ContainerDesc>
+
+
+                        </ContentProduct>
+
+
+                        <ContentProduct>
+
+                        <ContainerAvatar>
+                            <ImgAvatar src={'/img/catalogs/tiffany.jpeg'}/>
+                            <BackgroundImageProduct/>
+                        </ContainerAvatar>
+
+                        <ContainerDesc>
+
+                        <BarDesc></BarDesc>
+
+                            <Description>
+                            <h1>Colares e Pulseiras Tiffany & Co</h1>
+
+                            <p>Colares e pulseiras da tão famosa marca Tiffany & Co, trabalhamos com peças de primeira linha.</p>
+                            <img src={'/img/catalogs/tiffanymobile.jpeg'}/>
+                            <a href="https://drive.google.com/file/d/1MK9tfPUxSL0F0XDcULc0Skj7zbrYeXZ9/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
                             </Description>        
 
                         </ContainerDesc>

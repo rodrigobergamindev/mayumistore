@@ -1,5 +1,4 @@
-import styled from 'styled-components';
-
+import styled from 'styled-components'
 
 
 
@@ -119,9 +118,10 @@ export default function Footer() {
 
                     <ul>
                         <li><a href="/Produtos">Berloques</a></li>
-                        <li><a href="https://drive.google.com/file/d/1Au_1vcOvM_DSm686KKpyBsvuuAg93qyY/view?usp=sharing" target="_blank">Pulseiras</a></li>
-                        <li><a href="https://drive.google.com/file/d/14Qts8zYV_0S_lbeXEzH02PD1iXfdXQZm/view?usp=sharing" target="_blank">Argolas</a></li>
-                        <li><a href="https://drive.google.com/file/d/1WEDmwG9UwfQn3B5OJb8X6gKewbQ08W-v/view?usp=sharing" target="_blank">Muranos</a></li>
+                        <li><a href="/Produtos">Pulseiras</a></li>
+                        <li><a href="/Produtos">Argolas</a></li>
+                        <li><a href="/Produtos">Muranos</a></li>
+                        <li><a href="/Produtos">Colares e Pulseiras Tiffany</a></li>
                     </ul>
                 </div>
 
