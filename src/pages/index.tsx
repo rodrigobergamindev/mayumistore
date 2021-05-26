@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <Body>
       <Head>
-            <title>Início</title>
+            <title>LOJINHA DA MAYUMI</title>
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
       <Navbar/>
