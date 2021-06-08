@@ -226,7 +226,7 @@ export default function Produtos() {
                                 mais resistentes a corrosão.
                             </p>
                             <img src={'/img/catalogs/envernizadosmobile.jpeg'}/>
-                            <a href="https://drive.google.com/file/d/142Pd3-Fk1IlMBTr7pEpd8BLx3-NmVdDo/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
+                            <a href="https://drive.google.com/file/d/1QKb-r1gr5LtEoo6gKlOvQMJYcfnh5DsE/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
                             </Description>        
 
                         </ContainerDesc>
@@ -253,7 +253,7 @@ export default function Produtos() {
                             <p>Peças banhadas a cinquenta milésimos de prata, possuem um brilho atenuado. Catálogo com ampla variedade de berloques, separadores e muranos.
                             </p>
                             <img src={'/img/catalogs/banhadomobile.jpeg'}/>
-                            <a href="https://drive.google.com/file/d/15vCMz8ywsmM306sk9hrDs96nXBokMF8K/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
+                            <a href="https://drive.google.com/file/d/1XMg53_Twv8rH-qqRjALxj3W88rWSYp0E/view?usp=sharing" target="_blank"><button>Consulte o catálogo</button></a>
                             </Description>        
 
                         </ContainerDesc>
